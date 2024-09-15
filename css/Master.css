@@ -12,9 +12,13 @@
 }
 
 body {
-    width: 60%;
+    width: 65%;
 font-size: 17px;
-}
+position: absolute;
+top: 10%; 
+left: 50%; 
+transform: translate(-50%, -50%); 
+height: 100px; 
 
 .name {
     width: 210px;
@@ -47,3 +51,5 @@ font-size: 17px;
 .code {
     width: 215px;
 }
+
+
